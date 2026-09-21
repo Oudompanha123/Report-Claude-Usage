@@ -1,0 +1,7 @@
+# Holds INGEST_SECRET — never commit. Copy the example file and fill it in.
+claude-usage.config.json
+
+# Runtime log written by the scheduled task.
+push-usage.log
+
+node_modules/

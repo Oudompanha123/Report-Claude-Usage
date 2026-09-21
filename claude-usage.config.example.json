@@ -1,0 +1,6 @@
+{
+  "USER_EMAIL": "you@company.com",
+  "INGEST_URL": "http://localhost:8080/api/ingest",
+  "INGEST_SECRET": "",
+  "USER_NAME": "Your Name"
+}
